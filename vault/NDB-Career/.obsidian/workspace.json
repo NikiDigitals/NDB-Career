@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9d1147cff8041147",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4e41f46f9c0b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "052051b55a5d4312",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6a08c7c3bbad511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a72f7e6424b8fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec904704d7f097cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e124cc2510a848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1b4cf7e9bbff6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b84ca34b34f687f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "526dab2814a67931",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2bdb97d64bb5ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "666e7ead2bfe46a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d84684f6d99c65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46426575dc531e00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "444bd6730cb9a138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a5615d16fa7429a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ac9f1051255d912f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Inbox/zachman1987.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of zachman1987"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9d1b4cf7e9bbff6e",
+  "lastOpenFiles": [
+    "00 Inbox/zachman1987.md",
+    "Welcome.md",
+    "Templates/Role Research.md",
+    "Templates/Literature Note.md",
+    "Templates/Application.md",
+    "Templates",
+    "03 Certifications/CDMP",
+    "03 Certifications/PL-300",
+    "03 Certifications/BCS BA Foundation",
+    "03 Certifications/PSM-I",
+    "02 Industry Knowledge/BA Practice",
+    "02 Industry Knowledge/Financial Services",
+    "02 Industry Knowledge/Data Governance",
+    "06 Interview prep",
+    "05 Application Tracking"
+  ]
+}
